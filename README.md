@@ -17,5 +17,4 @@ As you navigate through the game, you will view the game from a top-down perspec
 Each painter has their own unique story to tell, and it's up to you to unravel their mysteries. So, are you ready to embark on this fascinating journey and discover the world of the ghost painters? Play Ghost Painters now and find out!
 
 ### _Note:_
-
 _If you open the Project in Unity, you need to click "No" when prompted about the Input methods (the game uses the old method)._

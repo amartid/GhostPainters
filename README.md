@@ -2,7 +2,7 @@
 
 Welcome to Ghost Painters, an exciting, 2D, dialogue-driven, serious game created in Unity Engine where you will travel back in time and come into contact with ghostly painters of the past. In this game, you will explore their world and learn about their lives, their work, and the art movements they participated in.### Objective
 
-![Ghost Painters Screenshot](https://github.com/amartid/GhostPainters/GhostPainters.jpg)
+![Ghost Painters Screenshot](GhostPainters.jpg)
 
 ### Objective
 

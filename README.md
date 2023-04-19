@@ -1,6 +1,6 @@
 # Ghost Painters
 
-Welcome to Ghost Painters, an exciting, 2D, dialogue-driven, serious game created in Unity Engine where you will travel back in time and come into contact with ghostly painters of the past. In this game, you will explore their world and learn about their lives, their work, and the art movements they participated in. Dialogues of this game are written in Greek language.
+Welcome to Ghost Painters, an exciting, 2D, dialogue-driven, serious game created in Unity Engine where you will travel back in time and come into contact with ghostly painters of the past. In this game, you will explore their world and learn about their lives, their work, and the art movements they participated in. This game was developed as the third project during Serious Games Programming Course - Master in Applied Informatics, at University. Dialogues of this game are written in Greek language. 
 
 ![Ghost Painters Screenshot](GhostPainters.jpg)
 
